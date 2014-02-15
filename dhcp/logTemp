@@ -1,0 +1,43 @@
+Jul 25 17:09:55 bt dhcpd: Sending on   Socket/fallback/fallback-net
+Jul 25 17:10:35 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:10:35 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:13:33 bt dhcpd: Sending on   Socket/fallback/fallback-net
+Jul 25 17:13:55 bt dhcpd: DHCPDISCOVER from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:13:56 bt dhcpd: DHCPOFFER on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:13:56 bt dhcpd: DHCPREQUEST for 10.0.0.20 (10.0.0.1) from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:13:56 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:18:56 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:18:56 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:23:56 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:23:56 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:28:56 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:28:56 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:36:50 bt dhcpd: Sending on   Socket/fallback/fallback-net
+Jul 25 17:37:30 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:37:30 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:42:30 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:42:30 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:47:30 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:47:30 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:52:30 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:52:30 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:57:30 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 17:57:30 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:02:30 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:02:30 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:07:55 bt dhcpd: Sending on   Socket/fallback/fallback-net
+Jul 25 18:08:30 bt dhcpd: DHCPDISCOVER from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:08:31 bt dhcpd: DHCPOFFER on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:08:31 bt dhcpd: DHCPREQUEST for 10.0.0.20 (10.0.0.1) from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:08:31 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:13:31 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:13:31 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:18:31 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:18:31 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:23:31 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:23:31 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:28:31 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 18:28:31 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 19:01:07 bt dhcpd: Sending on   Socket/fallback/fallback-net
+Jul 25 19:01:58 bt dhcpd: DHCPREQUEST for 10.0.0.20 from 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
+Jul 25 19:01:58 bt dhcpd: DHCPACK on 10.0.0.20 to 00:13:e8:9f:d4:9b (HP-CGESTION) via at0
