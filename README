@@ -1,0 +1,21 @@
+RogueAP
+#######
+
+Outils requis : 
+
+- Backtrack5 R3
+- Airbase-ng
+- Airmon-ng
+- Dhcpd
+- Iptables 
+- Sslstrip 
+- Ettercap 
+- Driftnet 
+- Apache2 
+- Php5 
+- MySQL 
+- Ntop 
+
+How to use :
+
+sh rogueAP.sh 
