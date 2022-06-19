@@ -44,4 +44,4 @@ def randomMAC6():
 		random.randint(0x00, 0xff) ]
 	return ':'.join(map(lambda x: "%02x" % x, mac6))
 #
-print randomMAC1() + " , " + randomMAC2() + " , " + randomMAC3() + " , " + randomMAC4() + " , " + randomMAC5() + " , " + randomMAC6()
+print(randomMAC1() + " , " + randomMAC2() + " , " + randomMAC3() + " , " + randomMAC4() + " , " + randomMAC5() + " , " + randomMAC6())
